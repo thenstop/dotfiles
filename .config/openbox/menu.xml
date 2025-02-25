@@ -21,7 +21,7 @@
                 <execute>ark</execute>
             </action> </item>
             <item label="Files"> <action name="Execute">
-                <execute>qtfm</execute>
+                <execute>nemo</execute>
             </action> </item>
         </menu>
         <separator/>
