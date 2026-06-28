@@ -16,3 +16,7 @@
 - echasnovski/mini.nvim
 - ms-jpq/coq_nvim
 - catppuccin/nvim
+
+#### Alacritty Theme:
+
+- The Alacritty theme is a recreation of Catppuchin Mocha to the best of my ability. (Or maybe I just read the source...)
